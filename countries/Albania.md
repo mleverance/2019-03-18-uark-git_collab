@@ -1,6 +1,8 @@
-##Albania
+## Albania
+
 ## population
 
+This is a paragraph about Albania's population.
 
 ## capital
 

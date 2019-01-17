@@ -1,12 +1,13 @@
 ##China
 ## population
-1,300,000,000
+1.386 billion (2017)
 
 ## capital
-Beijing 
- 
+Beijing
+
 ## official language
-Mandrine  
+
+Chinese
 
 ## interesting trivia
 

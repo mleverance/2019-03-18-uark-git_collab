@@ -1,11 +1,14 @@
 ##Nepal
-## population
+## population  
+28 million
 
 
-## capital
+## capital   
+kathmandu
 
  
-## official language
+## official language   
+nepali
 
 
 ## interesting trivia

@@ -4,9 +4,11 @@
 
 ## capital
 
+Wellington
  
 ## official language
 
+English
 
 ## interesting trivia
 
