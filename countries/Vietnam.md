@@ -1,14 +1,14 @@
 ##Vietnam
-## population
+## population: 95.54 million (2017)
 
 
-## capital
+## capital: Hanoi
 
  
-## official language
+## official language: Vietnamese
 
 
-## interesting trivia
+## interesting trivia:  Vietnam hosts a total of 54 unique ethnic groups
 
 
 
