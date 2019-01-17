@@ -1,14 +1,19 @@
 ##India
-## population
+## population 
+1.339 billion
 
 
-## capital
+## capital 
+New Delhi
 
  
-## official language
+## official language 
+Hindi
 
 
 ## interesting trivia
+Land of multiple religions
+
 
 
 
