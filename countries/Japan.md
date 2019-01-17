@@ -1,6 +1,6 @@
 ##Japan
 ## population
-A lot
+A lot of people
 
 ## capital
 
