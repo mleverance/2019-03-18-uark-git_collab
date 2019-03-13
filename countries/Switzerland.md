@@ -1,8 +1,7 @@
-## Switzerland
+##Switzerland
 
 ## population
 
-this is a paragraph about Switzerland's population.
 
 ## capital
 
